@@ -1,7 +1,8 @@
 Browsing History Data Analysis
 📌 Project Overview
 
-This project focuses on analyzing browsing history data to uncover user behavior, trends, and activity patterns. The dataset is cleaned, processed, and explored using Python, followed by an interactive Power BI dashboard that visualizes key insights such as top domains, browsing frequency by time, and transitions.
+This project focuses on analyzing browsing history data to uncover user behavior, trends, and activity patterns.
+The dataset is cleaned, processed, and explored using Python, followed by an interactive Power BI dashboard that visualizes key insights such as top domains, browsing frequency by time, and transitions.
 
 📂 Dataset Used
 
@@ -38,7 +39,7 @@ Designed an interactive dashboard for browsing insights.
 
 Visuals include:
 
-Total visits, top visited domains
+Total visits & top visited domains
 
 Visits by day, month, and hour
 
@@ -57,13 +58,13 @@ Dashboarding: Power BI
 📁 Repository Structure
 📂 Browsing-History-Analysis  
 │── 📁 data  
-│   ├── cleaned1_py_task.csv   # Cleaned dataset  
+│   ├── cleaned1_py_task.csv       # Cleaned dataset  
 │── 📁 notebooks  
-│   ├── py_task.ipynb          # Data cleaning & EDA  
+│   ├── py_task.ipynb              # Data cleaning & EDA  
 │── 📁 dashboard  
-│   ├── browsing_dashboard.pbix  # Power BI Dashboard  
-│   ├── dashboard.png            # Dashboard Screenshot  
-│── README.md  # Project Documentation  
+│   ├── browsing_dashboard.pbix    # Power BI Dashboard  
+│   ├── dashboard.png              # Dashboard Screenshot  
+│── README.md                      # Project Documentation  
 
 🚀 Getting Started
 🔹 Installation
